@@ -1,1 +1,3 @@
-# solidity-template
+# Solidity-template
+
+```npm install```
